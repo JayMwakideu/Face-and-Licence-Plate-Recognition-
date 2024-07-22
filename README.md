@@ -27,7 +27,7 @@ The **Face and License Plate Recognition System** is built using Python, Django,
 
 ## System Architecture
 
-![System Architecture](system_architecture_diagram.png)
+![System Architecture](dashboard.png)
 
 ## How It Works
 
