@@ -1,1 +1,1 @@
-# Face-and-Licence-Plate-Recognition-
+# Face and Licence Plate Recognition
