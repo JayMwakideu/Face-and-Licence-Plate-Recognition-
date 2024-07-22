@@ -4,6 +4,8 @@
 
 Welcome to the **Face and License Plate Recognition System** project! This repository contains the code and documentation for a robust security solution designed to enhance safety and security in workplaces and residential areas. By leveraging face recognition and license plate detection technologies, this system offers a seamless and automated method for verifying and controlling access to secured premises.
 
+![System Architecture](dashboard.png)
+
 ## Overview
 
 The **Face and License Plate Recognition System** is built using Python, Django, Raspberry Pi, and Arduino. The system integrates face recognition and license plate recognition to verify individuals and vehicles before granting access. Upon successful verification, the system uses servo motors to open the gate, ensuring only authorized personnel and vehicles can enter the premises.
